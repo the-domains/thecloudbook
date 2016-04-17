@@ -1,14 +1,28 @@
+name: Thecloudbook
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.74578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5988185
-  lightness: 0.6911923
-  brandStrength: 0.6911923
   brandColors:
     - '#D0DEE9'
     - '#05060B'
     - '#91ABB6'
     - '#427F9A'
     - '#0F1E42'
+  brandStrength: 0.6911923
+  lightness: 0.6911923
+  saturation: 0.5988185
   rhythmicContrast: 0.3786251
-typography_spectrum: 0.1810627
-name: Thecloudbook
+purpose: []
