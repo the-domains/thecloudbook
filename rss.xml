@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Thecloudbook]]></title>
         <description><![CDATA[Thecloudbook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thecloudbook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 19:53:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 18:35:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thecloudbook/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Disruptive Cloud Computing and IT]]></title>
-            <description><![CDATA[<article><h1>Disruptive Cloud Computing and IT</h1><p>A Book that talks about Cloud Computing and IT</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25b8b640e2c721f09a9a1018a120454d4ea22af8.jpg"></article>]]></description>
-            <link>undefineddisruptive-cloud-computing-and-it/index.html</link>
+            <description><![CDATA[<article><h1>Disruptive Cloud Computing and IT</h1><p>Cloud Computing SIMPLIFIED for every IT Professional</p></article>]]></description>
+            <link>https://thegrid.ai/thecloudbook/disruptive-cloud-computing-and-it/index.html</link>
             <guid isPermaLink="false">fe4ff19b-2d20-4552-9b68-ae6309bf981d</guid>
-            <pubDate>Sun, 17 Apr 2016 19:53:32 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 18:35:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
