@@ -5,30 +5,34 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-17T19:53:32.460Z'
-dateModified: '2016-04-17T19:52:49.937Z'
+description: A Book that talks about Cloud Computing and IT
+datePublished: '2016-04-18T18:35:09.287Z'
+dateModified: '2016-04-17T20:15:30.037Z'
 title: Disruptive Cloud Computing and IT
 author: []
+sourcePath: _posts/2016-04-17-disruptive-cloud-computing-and-it.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-disruptive-cloud-computing-and-it.md
-published: true
 url: disruptive-cloud-computing-and-it/index.html
 _type: Article
 
 ---
 # [Disruptive Cloud Computing and IT][0]
 
-> _Cloud Computing SIMPLIFIED
-> for every IT Professional_
+__
+
+__
+
+_Cloud Computing SIMPLIFIED for every IT Professional_
+
+__
 
 A Book that talks about Cloud Computing and IT
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d7ad5bc-bf0d-439f-aba2-c9e419d2eda4.jpg)
 
 ****
 
@@ -42,6 +46,7 @@ cloud computing or lagging in the cloud adoption strategy could mean being left
 alone amidst the technology leap. **
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d32e1f23-af9b-41f5-ad15-e2e6c92c519a.jpg)
 
 ****
 
@@ -53,9 +58,6 @@ can understand at different levels of technical knowledge they may have.
 Book: [@thecloudbook][1] | Author: [@rjnavigator][2]
 
 Order your copy @ [www.thecloudbook.info][3]
-
-  
-
 
 [0]: http://www.thecloudbook.info/
 [1]: https://twitter.com/thecloudbook
